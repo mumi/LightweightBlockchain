@@ -4,10 +4,10 @@
 <h4 align="center"><em>Lightweight Blockchain Network</em></h4>
 
 <p align="center">
-  <a href="https://github.com/davidemiceli/chainode/blob/master/LICENSE" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/mumi/LightweightBlockchain/blob/master/LICENSE" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="GitHub license">
   </a>
-  <a href="https://github.com/davidemiceli/chainode/pulls" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/mumi/LightweightBlockchain/pulls" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
   </a>
 </p>
