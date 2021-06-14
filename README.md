@@ -16,5 +16,5 @@
 
 ## License
 
-Chainode is licensed under the terms of the [GNU Affero General Public License Version 3 (AGPL)](LICENSE).  
+LightweightBlockchain is licensed under the terms of the [GNU Affero General Public License Version 3 (AGPL)](LICENSE).  
 Documentation is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
